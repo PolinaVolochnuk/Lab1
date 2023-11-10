@@ -9,6 +9,6 @@ symbol = input("Введіть символ для виведення літер
 # Виведення літери 'Е' висотою 5 рядків за допомогою введеного користувачем символу
 print(symbol * 5)
 print(symbol)
-print(symbol)
+print(symbol * 3)
 print(symbol)
 print(symbol * 5)
